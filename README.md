@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TheRealOctosquid
-- 👀 I’m interested in Cryptocurrencies like LINK (Solidity was my first look at any real code)
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any beginning level projects. 
-- 📫 How to reach me : Socials : twitter : @Hardcordisco, handle is TheRealOctosquid.eth
+-I’m interested in Cryptocurrencies like LINK (Solidity was my first look at any real code)
+- 🌱 I’m currently learning Python 
+- How to reach me : Socials : twitter : @Hardcordisco, handle is TheRealOctosquid.eth
                                   Insta   : @Hardcordisco, 
                                   Youtube : @AlexCordisco, 
 
