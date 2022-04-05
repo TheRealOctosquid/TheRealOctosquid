@@ -1,7 +1,7 @@
--Hello, I’m @TheRealOctosquid
- I’m currently learning Python 
--How to reach me :
- Twitter : @Hardcordisco, handle is TheRealOctosquid.eth
+Hello, I’m @TheRealOctosquid \n
+I’m currently learning Python 
+How to reach me :
+Twitter : @Hardcordisco, handle is TheRealOctosquid.eth
                                   Insta   : @Hardcordisco, 
                                   Youtube : @AlexCordisco, 
 
