@@ -1,9 +1,7 @@
-Hello, I’m @TheRealOctosquid \n
-I’m currently learning Python 
+Hello, I’m @TheRealOctosquid
+I’m currently learning Pytho. 
 How to reach me :
-Twitter : @Hardcordisco, handle is TheRealOctosquid.eth
-                                  Insta   : @Hardcordisco, 
-                                  Youtube : @AlexCordisco, 
+Twitter : @Hardcordisco, Insta   : @Hardcordisco, Youtube : @AlexCordisco, 
 
 <!---
 TheRealOctosquid/TheRealOctosquid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
