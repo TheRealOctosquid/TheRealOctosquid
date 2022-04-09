@@ -1,5 +1,5 @@
-Hello, I’m @TheRealOctosquid
-I’m currently learning Python. 
+Hello, I’m Alexander cordisco, my Internet identity is @TheRealOctosquid,
+I’m currently learning Python, JavaScript and SQL. 
 
 I bought a thermal printer at a garage sale. I thought it would be fun and creative to design a program that can print things to it. This is a work in progress
 <!---
