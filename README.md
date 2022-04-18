@@ -1,4 +1,4 @@
-Hello, I’m Alexander cordisco, my Internet identity is @TheRealOctosquid,
+Hello, I’m Alexander cordisco, screen name @TheRealOctosquid,
 I’m currently learning Python, JavaScript and SQL. 
 
 <!---
